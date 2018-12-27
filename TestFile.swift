@@ -9,5 +9,5 @@
 import Foundation
 
 struct TestFile {
-    
+    let a = "a"
 }
