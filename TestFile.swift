@@ -10,4 +10,5 @@ import Foundation
 
 struct TestFile {
     let a = "a"
+    let b = "c"
 }
